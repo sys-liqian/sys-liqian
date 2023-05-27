@@ -1,7 +1,6 @@
 ### Hi sys-liqian
 
 ![](https://img.shields.io/badge/Use-Go/JAVA-0076ab?style=flat&logo=C&logoColor=ffffff)
-![](https://img.shields.io/badge/Learn-C++/Rust-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 
 <!-- <details>
